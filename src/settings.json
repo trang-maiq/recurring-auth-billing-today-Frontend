@@ -1,0 +1,66 @@
+{
+  "components": [
+    {
+      "id": "BannerWithLink",
+      "variables": {
+        "eventDescription": "Join us at the Technical Meetup!",
+        "linkText": "Register Now"
+      }
+    },
+    {
+      "id": "HeroSimpleCentered",
+      "variables": {
+        "subtitle": "Experience seamless tech sharing and collaboration. Join a community that inspires and elevates your digital capabilities.",
+        "title": "Yay: Empowering Your Tech Journey"
+      }
+    },
+    {
+      "id": "TestimonialsGrid",
+      "variables": {
+        "subtitle": "Experience seamless tech sharing and collaboration. Join a community that inspires and elevates your digital capabilities.",
+        "title": "Yay: Empowering Your Tech Journey"
+      }
+    },
+    {
+      "id": "StatsSimpleGrid",
+      "variables": {
+        "subtitle": "Experience seamless tech sharing and collaboration. Join a community that inspires and elevates your digital capabilities.",
+        "title": "Yay: Empowering Your Tech Journey"
+      }
+    },
+    {
+      "id": "CtaSimpleCentered",
+      "variables": {
+        "subtitle": "Experience seamless tech sharing and collaboration. Join a community that inspires and elevates your digital capabilities.",
+        "title": "Yay: Empowering Your Tech Journey"
+      }
+    },
+    {
+      "id": "FaqsOffsetWithSupportingText",
+      "variables": {
+        "subtitle": "Experience seamless tech sharing and collaboration. Join a community that inspires and elevates your digital capabilities.",
+        "title": "Yay: Empowering Your Tech Journey"
+      }
+    },
+    {
+      "id": "NewsletterCenteredCard",
+      "variables": {
+        "buttonText": "Join Our Community",
+        "description": "Subscribe to our newsletter for enlightening tech-sharing knowledge tailored just for you. Whether you're an enthusiast or a professional, our insights will inspire and empower your journey.",
+        "emailLabel": "Enter your email",
+        "heading": "Empower Your Journey with Exclusive Tech Insights"
+      }
+    },
+    {
+      "id": "FooterSimpleCentered",
+      "variables": {
+        "subtitle": "Experience seamless tech sharing and collaboration. Join a community that inspires and elevates your digital capabilities.",
+        "title": "Yay: Empowering Your Tech Journey"
+      }
+    }
+  ],
+  "theme": "dark",
+  "font": "",
+  "title": "Yay: Empowering Your Tech Journey",
+  "subtitle": "Experience seamless tech sharing and collaboration. Join a community that inspires and elevates your digital capabilities."
+}
